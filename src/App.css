@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Kumbh+Sans:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(
+        180deg,
+        rgb(174, 0, 255) 25%,
+        rgb(180, 1, 240) 50%,
+        rgb(230, 0, 255) 75%
+      );
+      display: flex;
+      justify-content: center;
+      margin-top: 100px;
+      padding: 10px;
+}
+
+.headline {
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}

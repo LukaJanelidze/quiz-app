@@ -1,0 +1,52 @@
+[
+  {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Rome"],
+      "correctAnswer": "Paris"
+  },
+  {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+      "correctAnswer": "Jupiter"
+  },
+  {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Oxygen", "Gold", "Iron", "Carbon"],
+      "correctAnswer": "Oxygen"
+  },
+  {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "correctAnswer": "Harper Lee"
+  },
+  {
+      "question": "What is the square root of 64?",
+      "options": ["8", "6", "10", "9"],
+      "correctAnswer": "8"
+  },
+  {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctAnswer": "Pacific Ocean"
+  },
+  {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+      "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+      "question": "What is the freezing point of water?",
+      "options": ["0°C", "32°F", "100°C", "273K"],
+      "correctAnswer": "0°C"
+  },
+  {
+      "question": "Who is known as the 'Father of Computers'?",
+      "options": ["Albert Einstein", "Charles Babbage", "Isaac Newton", "Nikola Tesla"],
+      "correctAnswer": "Charles Babbage"
+  },
+  {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+      "correctAnswer": "Mars"
+  }
+]
